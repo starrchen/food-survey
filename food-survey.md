@@ -6,4 +6,7 @@ This file is an attempt to document what foods are liked and disliked by a group
 Frank: Ribs :meat_on_bone:
 Matt: Pasta
 Josh: Pizza
+Dejan: Cevapi
+Mike: Pizza
+
 ### What is your least favorite food?
