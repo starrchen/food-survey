@@ -6,7 +6,9 @@ This file is an attempt to document what foods are liked and disliked by a group
 Frank: Ribs :meat_on_bone:
 Josh: Pizza
 Matt: Fra Diavolo
+Starr: Kettle Cooked Potato Chips
+Samir: Pasties
 Dejan: Cevapi
 Mike: Pizza
-
+Muse: Thai
 ### What is your least favorite food?
